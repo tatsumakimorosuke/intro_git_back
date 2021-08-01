@@ -3,3 +3,4 @@ of the basic workflow.
 
 ・git add
 ・git commit
+・git rm
